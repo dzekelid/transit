@@ -1,4 +1,5 @@
-title: Streamdata Gallery Transit
+title: Streamdata API Gallery - Transit
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
 url: transit.streamdata.gallery
 tag: Transit
 markdown: kramdown
