@@ -26,7 +26,7 @@ apis:
   tags: Transit
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/youtube/livebroadcasts-transition-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/youtube/livebroadcasts-transition-post.md
 x-common:
 - type: x-articles
   url: https://developers.google.com/youtube/articles/
