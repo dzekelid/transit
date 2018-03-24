@@ -36,7 +36,7 @@ apis:
   tags: Transit
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/aws-code-pipeline/action-disablestagetransition-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/aws-code-pipeline/action-enablestagetransition-get.md
 x-common:
 - type: x-blog
   url: http://blogs.aws.amazon.com/bigdata
