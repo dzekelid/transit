@@ -27,17 +27,21 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/youtube/livebroadcasts-transition-post.md
-- name: Youtube Parameters Live Broadcasts Transition
-  description: Parameters livebroadcasts transition
+- name: Youtube Add Live Broadcasts Transition
+  description: Changes the status of a YouTube live broadcast and initiates any processes
+    associated with the new status. For example, when you transition a broadcast's
+    status to testing, YouTube starts to transmit video to that broadcast's monitor
+    stream. Before calling this method, you should confirm that the value of the status.streamStatus
+    property for the stream bound to your broadcast is active.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/youtube-logo.png
   humanURL: https://www.youtube.com/
   baseURL: https://www.googleapis.com//youtube/v1
   tags: Transit
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/youtube/livebroadcasts-transition-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/youtube/livebroadcasts-transition-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/youtube/livebroadcasts-transition-parameters-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/youtube/livebroadcasts-transition-post-postman.md
 x-common:
 - type: x-articles
   url: https://developers.google.com/youtube/articles/
