@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Code Pipeline API
+  title: AWS Code Pipeline API Disable Stage Transition
   version: 1.0.0
+  description: |-
+    Prevents artifacts in a pipeline from transitioning to the next stage in the
+                pipeline.
 schemes:
 - http
 produces:
