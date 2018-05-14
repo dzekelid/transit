@@ -1,17 +1,12 @@
 ---
 swagger: "2.0"
 info:
-  title: YouTube
-  description: YouTube allows users to upload, view, rate, share, add to favorites,
-    report, comment on videos, and subscribe to other users. It offers a wide variety
-    of user-generated and corporate media videos. Available content includes video
-    clips, TV show clips, music videos, short and documentary films, audio recordings,
-    movie trailers, live streams, and other content such as video blogging, short
-    original videos, and educational videos. Most of the content on YouTube is uploaded
-    by individuals, but media corporations including CBS, the BBC, Vevo, and Hulu
-    offer some of their material via YouTube as part of the YouTube partnership program.
-    Unregistered users can only watch videos on the site, while registered users are
-    permitted to upload an unlimited number of videos and add comments to videos.
+  title: Youtube Add Live Broadcasts Transition
+  description: Changes the status of a YouTube live broadcast and initiates any processes
+    associated with the new status. For example, when you transition a broadcast's
+    status to testing, YouTube starts to transmit video to that broadcast's monitor
+    stream. Before calling this method, you should confirm that the value of the status.streamStatus
+    property for the stream bound to your broadcast is active.
   termsOfService: https://developers.google.com/terms/
   contact:
     name: Google
