@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Code Pipeline API
+  title: AWS Code Pipeline API Enable Stage Transition
   version: 1.0.0
+  description: Enables artifacts in a pipeline to transition to a stage in a pipeline.
 schemes:
 - http
 produces:
