@@ -37,17 +37,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/aws-code-pipeline/action-enablestagetransition-get.md
-- name: AWS Code Pipeline API Disable Stage Transition
-  description: |-
-    Prevents artifacts in a pipeline from transitioning to the next stage in the
-                pipeline.
+- name: AWS Code Pipeline API Enable Stage Transition
+  description: Enables artifacts in a pipeline to transition to a stage in a pipeline.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Developer-Tools_AWSCodePipeline.png
   humanURL: https://aws.amazon.com/datapipeline/
   baseURL: http:://{host}//
   tags: Transit
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/aws-code-pipeline/action-disablestagetransition-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/aws-code-pipeline/action-enablestagetransition-get.md
 x-common:
 - type: x-blog
   url: http://blogs.aws.amazon.com/bigdata
