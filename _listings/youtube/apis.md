@@ -7,25 +7,13 @@ description: YouTube allows billions of people to discover, watch and share orig
   and advertisers large and small.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/youtube-logo.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Transit
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/youtube/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Youtube Parameters Live Broadcasts Transition
-  x-api-slug: youtube
-  description: Parameters livebroadcasts transition
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/youtube-logo.png
-  humanURL: https://www.youtube.com/
-  baseURL: https://www.googleapis.com//youtube/v1//liveBroadcasts/transition
-  tags: Livebroadcasts, Transition
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/youtube/livebroadcaststransition-parameters-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/youtube/livebroadcaststransition-parameters-openapi.md
 - name: Youtube Add Live Broadcasts Transition
   x-api-slug: youtube
   description: Changes the status of a YouTube live broadcast and initiates any processes

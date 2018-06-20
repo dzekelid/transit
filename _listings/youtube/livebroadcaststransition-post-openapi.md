@@ -24,17 +24,6 @@ consumes:
 - application/json
 paths:
   /liveBroadcasts/transition:
-    parameters:
-      summary: Parameters Live Broadcasts Transition
-      description: Parameters livebroadcasts transition
-      operationId: parametersLivebroadcastsTransition
-      x-api-path-slug: livebroadcaststransition-parameters
-      responses:
-        200:
-          description: OK
-      tags:
-      - Livebroadcasts
-      - Transition
     post:
       summary: Add Live Broadcasts Transition
       description: Changes the status of a YouTube live broadcast and initiates any
