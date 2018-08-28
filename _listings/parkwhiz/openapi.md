@@ -1,8 +1,8 @@
 swagger: "2.0"
-x-collection-name: Navitia
+x-collection-name: ParkWhiz
 x-complete: 1
 info:
-  title: Navitia
+  title: ParkWhiz
   version: 1.0.0
 schemes:
 - http
