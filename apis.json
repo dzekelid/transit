@@ -1,0 +1,527 @@
+{
+	"name": "Streadata.io API Gallery - Transit",
+	"description": "This is a repository of transit APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/transit.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://transit.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Expedia",
+			"x-api-slug": "expedia",
+			"description": "Expedia Affiliate Network is the B2B partnership brand of Expedia, Inc. Our technology powers the hotel offering of thousands of partners around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/195-expedia.jpg",
+			"humanURL": "http://developer.ean.com/",
+			"baseURL": "https://apim.expedia.com/x/",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/expedia/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Urban Mapping",
+			"x-api-slug": "urban-mapping",
+			"description": "Crafting commerce through customer information management, location intelligence, customer engagement, shipping, mailing & ecommerce. Customer Service @PBcares.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/271-urban-mapping.jpg",
+			"humanURL": "http://developer.urbanmapping.com/",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/urban-mapping/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "511 Bay Area",
+			"x-api-slug": "511-bay-area",
+			"description": "511 is your free one-stop phone and web source for up-to-the minute Bay Area traffic, transit, rideshare, bicycling, and parking information.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_511_128x128_400x400.jpg",
+			"humanURL": "http://www.511.org/",
+			"baseURL": "https://api.511.org//transit",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/511-bay-area/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Transport for London",
+			"x-api-slug": "transport-for-london",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/502_logo.png",
+			"humanURL": "https://tfl.gov.uk/info-for/open-data-users/",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/transport-for-london/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TriMet",
+			"x-api-slug": "trimet",
+			"description": "TriMet provides bus, light rail and commuter rail transit services in the Portland, Oregon, metro area. We connect people with their community, while easing traffic congestion and reducing air pollution???making the Portland area a better place to live. ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/504-trimet.jpg",
+			"humanURL": "http://developer.trimet.org/",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/trimet/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MTA",
+			"x-api-slug": "mta",
+			"description": "The official Twitter feed of the NY Metropolitan Transportation Authority. For service alerts/customer service, follow @NYCTSubway, @NYCTBus, @LIRR, @MetroNorth",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/624-mta.jpg",
+			"humanURL": "http://www.mta.info/developers/",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/mta/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TransLoc",
+			"x-api-slug": "transloc",
+			"description": "TransLoc is the technology provider of the most flexible agency-owned microtransit solutions for delivering the ultimate rider experience.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/684-transloc-api.jpg",
+			"humanURL": "http://transloc.com/",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/transloc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CTA Bus Tracker",
+			"x-api-slug": "cta-bus-tracker",
+			"description": "Information about CTA bus and train service in and around Chicago. Find maps, schedules, service alerts, plan a trip, jobs, news and more!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/746-cta-bus-tracker.jpg",
+			"humanURL": "http://www.transitchicago.com",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/cta-bus-tracker/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SilverRail Tech",
+			"x-api-slug": "silverrail-tech",
+			"description": "Charts, maps & planning solutions for aviation. View services to meet operational needs & increase efficiency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/826-silverrail-tech.jpg",
+			"humanURL": "http://ww1.jeppesen.com/main/corporate/land/journey-planning/index.jsp",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/silverrail-tech/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MTD",
+			"x-api-slug": "mtd",
+			"description": "The Champaign-Urbana Mass Transit District provides public transportation for areas including Champaign, Urbana, and Savoy.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/859-mtd.jpg",
+			"humanURL": "http://developer.cumtd.com/",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/mtd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OC Transpo",
+			"x-api-slug": "oc-transpo",
+			"description": "Public transit in Canadas Capital. Service updates: @OCTranspoLive. Transport en commun dans la capitale du Canada. Mises  jour du service: @OCTranspoDirect.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1101-oc-transpo.jpg",
+			"humanURL": "http://www.octranspo1.com",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/oc-transpo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Washington Metropolitan Area Transit Authority",
+			"x-api-slug": "washington-metropolitan-area-transit-authority",
+			"description": "Official feed of Metro/WMATA, not monitored 24/7. Report emergencies to Transit Police at (202) 962-2121. Service updates @metrorailinfo & @metrobusinfo.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1214-washington-metropolitan-area-transit-authority.jpg",
+			"humanURL": "http://wmata.com/",
+			"baseURL": "https://api.wmata.com//TrainPositions",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/washington-metropolitan-area-transit-authority/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SaferBus",
+			"x-api-slug": "saferbus",
+			"description": "Welcome to the Facebook page of the U.S. Department of Transportation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1295-saferbus.jpg",
+			"humanURL": "https://mobile.fmcsa.dot.gov",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/saferbus/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Transit App",
+			"x-api-slug": "the-transit-app",
+			"description": "",
+			"image": "",
+			"humanURL": "https://transitapp.com",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/the-transit-app/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "openOV",
+			"x-api-slug": "openov",
+			"description": "openOV is a Dutch service that provides app builders with access to current travel information from GOVI, a group that provides travel information for the digital panels at transit stops in the Netherlands. openOV exposes this information to its users via APIs so that developers can integrate it into route planners and similar apps. The openOV website is provided solely in Dutch.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/openov-logo-2.png",
+			"humanURL": "http://www.openov.nl/",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/openov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Translink",
+			"x-api-slug": "translink",
+			"description": "Greater Vancouvers transportation agency, we tweet all things public transport, including service updates, tips and info!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9542-translink.jpg",
+			"humanURL": "https://translink.ca",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/translink/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Navitia",
+			"x-api-slug": "navitia",
+			"description": "Discover our API to build cool stuff with public transport",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10165-navitia.jpg",
+			"humanURL": "http://www.navitia.io/",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/navitia/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Los Angeles Metro",
+			"x-api-slug": "los-angeles-metro",
+			"description": "Your train, bike, bus, vanpool, express lanes, commute-saving, LA-loving agency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11672-metro-developer.jpg",
+			"humanURL": "https://developer.metro.net",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/los-angeles-metro/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GeoTrellis",
+			"x-api-slug": "geotrellis",
+			"description": "GeoTrellis Transit provides a REST API for answering questions about travelsheds.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/GeoTrellis-Transit-Logo.png",
+			"humanURL": "http://transit.geotrellis.com/",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/geotrellis/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Shopify",
+			"x-api-slug": "shopify",
+			"description": "Shopify is a commerce platform that allows anyone to easily sell online at a retail location and everywhere in between. It offers a professional online storefront, a payment solution to accept credit cards, and the Shopify POS application to power retail sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png",
+			"humanURL": "https://www.shopify.com/",
+			"baseURL": "https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/shopify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HERE",
+			"x-api-slug": "here",
+			"description": "HERE Technologies enables people, enterprises and cities around the world to harness the power of location and create innovative solutions that make our lives safer and more efficient. We transform information from devices, vehicles, infrastructure and...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20089-here-maps.jpg",
+			"humanURL": "https://developer.here.com",
+			"baseURL": "https://weather.cit.api.here.com//weather/1.0",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/here/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Code Pipeline",
+			"x-api-slug": "aws-code-pipeline",
+			"description": "AWS Data Pipeline is a web service that helps you reliably process and move data between different AWS compute and storage services, as well as on-premise data sources, at specified intervals. With AWS Data Pipeline, you can regularly access your data where it&rsquo;s stored, transform and process it at scale, and efficiently transfer the results to AWS services such as Amazon S3, Amazon RDS, Amazon DynamoDB, and Amazon EMR.AWS Data Pipeline helps you easily create complex data processing workloads that are fault tolerant, repeatable, and highly available. You don&rsquo;t have to worry about ensuring resource availability, managing inter-task dependencies, retrying transient failures or timeouts in individual tasks, or creating a failure notification system. AWS Data Pipeline also allows you to move and process data that was previously locked up in on-premise data silos.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Developer-Tools_AWSCodePipeline.png",
+			"humanURL": "https://aws.amazon.com/datapipeline/",
+			"baseURL": ":///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/aws-code-pipeline/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TransitFeeds",
+			"x-api-slug": "transitfeeds",
+			"description": "The best source of open official public transit data. Maintained by @qzervaas + others",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26209-rta-service-alerts.jpg",
+			"humanURL": "https://transitfeeds.com",
+			"baseURL": "https://api.transitfeeds.com//v1",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/transitfeeds/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Public Transport Victoria Timetable",
+			"x-api-slug": "public-transport-victoria-timetable",
+			"description": "The PTV Timetable API provides direct access to Public Transport Victoria&rsquo;s public transport timetable data. The API returns scheduled timetable, route and stop data for all metropolitan and regional train, tram and bus services in Victoria, including Night Network(Night Train and Night Tram data are included in metropolitan train and tram services data, respectively, whereas Night Bus is a separate route type). The API also returns real-time data for metropolitan train, tram and bus services (where this data is made available to PTV), as well as disruption information, stop facility information, and access to myki ticket outlet data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/public-transport-victoria.png",
+			"humanURL": "https://www.ptv.vic.gov.au/about-ptv/data-and-reports/datasets/ptv-timetable-api/",
+			"baseURL": "https://timetableapi.ptv.vic.gov.au//",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/public-transport-victoria-timetable/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Transport for London Unified",
+			"x-api-slug": "transport-for-london-unified",
+			"description": "We are the integrated transport authority responsible for delivering Mayor of London Sadiq Khans strategy and commitments on transport. We run the day-to-day operation of the Capitals public transport network and manage Londons main roads.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/transport-for-london-unified-api.png",
+			"humanURL": "https://tfl.gov.uk/",
+			"baseURL": "https://api.tfl.gov.uk//",
+			"tags": "Transit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/transport-for-london-unified/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Transit",
+	"include": [
+		{
+			"name": "Expedia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/expedia/apis.yaml"
+		},
+		{
+			"name": "Urban Mapping",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/urban-mapping/apis.yaml"
+		},
+		{
+			"name": "511 Bay Area",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/511-bay-area/apis.yaml"
+		},
+		{
+			"name": "Transport for London",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/transport-for-london/apis.yaml"
+		},
+		{
+			"name": "TriMet",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/trimet/apis.yaml"
+		},
+		{
+			"name": "MTA",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/mta/apis.yaml"
+		},
+		{
+			"name": "TransLoc",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/transloc/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "CTA Bus Tracker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/cta-bus-tracker/apis.yaml"
+		},
+		{
+			"name": "SilverRail Tech",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/silverrail-tech/apis.yaml"
+		},
+		{
+			"name": "MTD",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/mtd/apis.yaml"
+		},
+		{
+			"name": "OC Transpo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/oc-transpo/apis.yaml"
+		},
+		{
+			"name": "Washington Metropolitan Area Transit Authority",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/washington-metropolitan-area-transit-authority/apis.yaml"
+		},
+		{
+			"name": "SaferBus",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/saferbus/apis.yaml"
+		},
+		{
+			"name": "The Transit App",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/the-transit-app/apis.yaml"
+		},
+		{
+			"name": "openOV",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/openov/apis.yaml"
+		},
+		{
+			"name": "Translink",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/translink/apis.yaml"
+		},
+		{
+			"name": "Navitia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/navitia/apis.yaml"
+		},
+		{
+			"name": "Los Angeles Metro",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/los-angeles-metro/apis.yaml"
+		},
+		{
+			"name": "GeoTrellis",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/geotrellis/apis.yaml"
+		},
+		{
+			"name": "Shopify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/shopify/apis.yaml"
+		},
+		{
+			"name": "HERE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/here/apis.yaml"
+		},
+		{
+			"name": "AWS Code Pipeline",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/aws-code-pipeline/apis.yaml"
+		},
+		{
+			"name": "TransitFeeds",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/transitfeeds/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Public Transport Victoria Timetable",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/public-transport-victoria-timetable/apis.yaml"
+		},
+		{
+			"name": "Transport for London Unified",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/transport-for-london-unified/apis.yaml"
+		}
+	]
+}

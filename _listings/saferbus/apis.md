@@ -1,31 +1,31 @@
 ---
 name: SaferBus
-description: The SaferBus API is a RESTful service API provided by FMCSA for the purpose
-  of making available, the safety performance data of U.S. Department of Transportation
-  (U.S. DOT) registered bus companies. The primary goal is to encourage the development
-  of products, tools or services that can help consumers more easily check the safety
-  record of bus companies to avoid those that have been placed out of service or those
-  that do not have the proper operating authority.nbsp;
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/400px-US-DeptOfTransportation-Seal.svg.png
+x-slug: saferbus
+description: Welcome to the Facebook page of the U.S. Department of Transportation.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1295-saferbus.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Transit
-- Transit
-- Stack Network
-- Safety
-- Government
-- Federal Government
-- Federal Government
-- Bus
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/transit/master/_listings/saferbus/apis.yaml
+x-alexaRank: "77669"
+tags: Transit
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/transit/master/_listings/saferbus/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/u-s-department-of-transportation
 - type: x-developer
   url: https://mobile.fmcsa.dot.gov/developer/apidoc.page?cid=29958
+- type: x-email
+  url: privacy@dot.gov
+- type: x-email
+  url: Denise.P.Wright@dot.gov
+- type: x-email
+  url: DOTCFO@dot.gov
+- type: x-email
+  url: Edward.c.ramos@dot.gov
+- type: x-twitter
+  url: https://twitter.com/USDOT
 - type: x-website
   url: https://mobile.fmcsa.dot.gov
 include: []
